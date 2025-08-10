@@ -3,8 +3,7 @@ import {
   ref,
   reactive,
   onMounted,
-  nextTick
-} from "https://esm.sh/vue@3/dist/vue.esm-browser.js";
+} from "https://esm.sh/vue@3/dist/vue.esm-browser.prod.js";
 
 import QRCodeStyling from "https://esm.sh/qr-code-styling@1.9";
 import { loadIcon } from "https://esm.sh/iconify-icon@3/dist/iconify-icon.min.js";
